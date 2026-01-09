@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Male Voice 1",
+    "provider": "11labs",
+    "voiceId": "5ZvI0fBo2w7CxuiM9ObF",
+    "language": "en-US"
+  },
+  {
+    "name": "Female Voice 1",
+    "provider": "11labs",
+    "voiceId": "pBZVCk298iJlHAcHQwLr",
+    "language": "en-US"
+  }
+]

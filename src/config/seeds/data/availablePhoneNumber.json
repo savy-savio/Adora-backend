@@ -1,0 +1,20 @@
+[
+  {
+    "phoneNumber": "+1234567890",
+    "country": "US",
+    "provider": "twilio",
+    "isAvailable": true
+  },
+  {
+    "phoneNumber": "+234234567890",
+    "country": "NG",
+    "provider": "twilio",
+    "isAvailable": true
+  },
+  {
+    "phoneNumber": "+201234567890",
+    "country": "EG",
+    "provider": "twilio",
+    "isAvailable": true
+  }
+]
