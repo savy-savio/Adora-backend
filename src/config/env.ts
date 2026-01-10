@@ -35,7 +35,7 @@ export const env = {
   PAYSTACK_SECRET_KEY: optionalEnv("PAYSTACK_SECRET_KEY"),
 
   // Frontend / Backend URLs
-  FRONTEND_URL: optionalEnv("https://www.adora3.com", "http://localhost:3000"),
+  FRONTEND_URL: optionalEnv("FRONTEND_URL", "http://localhost:3000"),
   BACKEND_URL: optionalEnv("BACKEND_URL", "http://localhost:5000"),
 
   // Google OAuth (CRITICAL)
